@@ -1,7 +1,7 @@
 # proyectofinalpython
 este es el proyecto final de la clase de submodulo 2  codifica software
 
-Integrantes de equipo: NOMBRE1 y NOMBRE2
+Integrantes de equipo: FERNANDA
 
 Avances al 24 de abril de 2026
 
